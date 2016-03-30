@@ -1,2 +1,2 @@
 # Monkey
-the php framwork
+the php framweork
