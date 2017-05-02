@@ -1,1 +1,12 @@
-
+{
+  "name": "monkey/monkey",
+  "description": "The millisecond PHP rapid response framework",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Hriver",
+      "email": "1790803832@qq.com"
+    }
+  ]
+}
